@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorageExample", "AzureBlobStorageSample\AzureBlobStorageExample.csproj", "{6764C8C7-40C3-4FB7-BA67-BB5A0D55E31A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CAC81BC-A336-4F4F-840C-3CDDC5AED378}"
+	ProjectSection(SolutionItems) = preProject
+		Setup Info.txt = Setup Info.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAccountManager", "AzureAccountManager\AzureAccountManager\AzureAccountManager.csproj", "{6B24F4CA-1F39-4A82-AB55-2C7D1BF8AECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +22,15 @@ Global
 		{6764C8C7-40C3-4FB7-BA67-BB5A0D55E31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6764C8C7-40C3-4FB7-BA67-BB5A0D55E31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6764C8C7-40C3-4FB7-BA67-BB5A0D55E31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B24F4CA-1F39-4A82-AB55-2C7D1BF8AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B24F4CA-1F39-4A82-AB55-2C7D1BF8AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B24F4CA-1F39-4A82-AB55-2C7D1BF8AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B24F4CA-1F39-4A82-AB55-2C7D1BF8AECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0DAAC1-8E9E-46D2-B570-1A3752B1766A}
 	EndGlobalSection
 EndGlobal

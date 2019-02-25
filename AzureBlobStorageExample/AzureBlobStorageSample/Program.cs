@@ -1,4 +1,5 @@
 ﻿using Microsoft.WindowsAzure.Storage;
+using Microsoft.WindowsAzure.Storage.Blob;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -15,35 +16,31 @@ namespace AzureBlobStorageSample
         static void Main(string[] args)
         {
             //  Storage account information
-            //  Set yours in the app.config first by using
             //  information from azure management portal
-            string con = ConfigurationManager
-                .ConnectionStrings["AzureConnection"]
-                .ConnectionString;
-
+            string connectionInfo = AccountManager.GetAzureAccount();
 
             //  Create the storage client - this class has
             //  Methods related to managing the storage account
-            var storageClient = CloudStorageAccount.Parse(con);
+            CloudStorageAccount storageClient = CloudStorageAccount.Parse(connectionInfo);
 
             //  Create the blob client - this class has 
             //  Methods related to working with a specific blob
-            var blobclient = storageClient.CreateCloudBlobClient();
+            CloudBlobClient blobclient = storageClient.CreateCloudBlobClient();
 
             //  Get a reference to a specific container
-            var container = blobclient.GetContainerReference("20487-private-centriq");
+            CloudBlobContainer container = blobclient.GetContainerReference("20487-private-centriq");
             container.CreateIfNotExists();
 
             //  List out all of the items in this blob
-            var AllItems = container.ListBlobs();
+            IEnumerable<IListBlobItem> AllItems = container.ListBlobs();
 
             //  Get a reference to the blockblob called buymoria
-            var buymore = container.GetBlockBlobReference("buymoria");
-            buymore.Delete();
+            CloudBlockBlob buymore = container.GetBlockBlobReference("buymoria");
+            buymore.DeleteIfExists();
 
             //  Upload the file by reading the entire thing into 
             //  an array of bytes (best if only used on small files)
-            var bytes = File.ReadAllBytes(@"Content\buymore2.xml");
+            byte[] bytes = File.ReadAllBytes(@"Content\buymore2.xml");
 
             //  Upload the file to the blob
             buymore.UploadFromByteArray(bytes, 0, bytes.Length);
@@ -56,11 +53,14 @@ namespace AzureBlobStorageSample
 
             //  Now we prepare to download it.
             //  create an array of bytes of the length needed
-            //  Use buymore.Property["length"]
+            //  Use buymore.Properties.Length
+            //  Best if used only on small files.
             byte[] dlbytes = new byte[buymore.Properties.Length];
-            var file = buymore.DownloadToByteArray(dlbytes, 0);
+            int file = buymore.DownloadToByteArray(dlbytes, 0);
             File.WriteAllBytes(@"Content\DL-" + Guid.NewGuid().ToString() + ".xml", dlbytes);
 
+            //  Now do the same, but using a filestream 
+            //  best if used on large files (less memory)
             FileStream wstrm = new FileStream(@"Content\DL-" + Guid.NewGuid().ToString() + ".xml", FileMode.Create);
             buymore.DownloadToStream(wstrm);
             wstrm.Close();

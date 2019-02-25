@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee FullName="Tucker, Michael">
+    <Position>Manager</Position>
+    <Salary>18.00</Salary>
+  </Employee>
+  <Employee FullName="Grimes, Morgan">
+    <Position>Asst. Manager</Position>
+    <Salary>12.00</Salary>
+  </Employee>
+  <Employee FullName="Milbarge, Emmett">
+    <Position>Asst. Manager</Position>
+    <Salary>14.00</Salary>
+  </Employee>
+  <Employee FullName="Tang, Harry">
+    <Position>Asst. Manager</Position>
+    <Salary>12.00</Salary>
+  </Employee>
+  <Employee FullName="Beckman, Diane">
+    <Position>Manager</Position>
+    <Salary>22.00</Salary>
+  </Employee>
+  <Employee FullName="Casey, John">
+    <Position>Green Shirt</Position>
+    <Salary>10.00</Salary>
+  </Employee>
+  <Employee FullName=", Fernando">
+    <Position>Green Shirt</Position>
+    <Salary>9.00</Salary>
+  </Employee>
+  <Employee FullName=", Bunny">
+    <Position>Green Shirt</Position>
+    <Salary>9.00</Salary>
+  </Employee>
+  <Employee FullName="Bartowski, Chuck">
+    <Position>Nerd Herd</Position>
+    <Salary>13.00</Salary>
+  </Employee>
+  <Employee FullName="Barnes, Jeffrey">
+    <Position>Nerd Herd, Apple</Position>
+    <Salary>11.25</Salary>
+  </Employee>
+  <Employee FullName="Patel, Lester">
+    <Position>Nerd Herd, Apple</Position>
+    <Salary>11.25</Salary>
+  </Employee>
+  <Employee FullName="Johnson, Skip">
+    <Position>Nerd Herd</Position>
+    <Salary>12.00</Salary>
+  </Employee>
+  <Employee FullName="Wu, Anna">
+    <Position>Nerd Herd</Position>
+    <Salary>9.00</Salary>
+  </Employee>
+  <Employee FullName=", Hannah">
+    <Position>Nerd Herd</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName=", Greta">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Noble, Rick">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Dunwoody, Victoria">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Finkelstein, Moses">
+    <Position>Founder</Position>
+    <Salary>180.00</Salary>
+  </Employee>
+  <Employee FullName="Bauer, Porter">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Gadsby, Marvin">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Goldenberg, Cecil">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="James, Christina">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Mango, Ruben">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Sawaya, Sal">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Stoinitz, Skye">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Williams, Leticia">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+  <Employee FullName="Yang, Sarah">
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+  </Employee>
+</Employees>

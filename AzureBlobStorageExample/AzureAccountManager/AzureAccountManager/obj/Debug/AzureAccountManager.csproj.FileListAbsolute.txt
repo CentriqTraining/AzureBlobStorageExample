@@ -1,0 +1,7 @@
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\bin\Debug\AzureAccountManager.dll
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\bin\Debug\AzureAccountManager.pdb
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\bin\Debug\System.Management.Automation.dll
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\obj\Debug\AzureAccountManager.csproj.CoreCompileInputs.cache
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\obj\Debug\AzureAccountManager.csproj.CopyComplete
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\obj\Debug\AzureAccountManager.dll
+e:\Documents\GitHub\AzureBlobStorageExample\AzureBlobStorageExample\AzureAccountManager\AzureAccountManager\obj\Debug\AzureAccountManager.pdb
