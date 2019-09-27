@@ -54,4 +54,35 @@ C:\Users\Mike\Documents\Visual Studio 2012\Projects\AzureAPISamples\AzureBlobSto
 C:\Users\Mike\Documents\Visual Studio 2012\Projects\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csprojResolveAssemblyReference.cache
 C:\Users\Mike\Documents\Visual Studio 2012\Projects\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.exe
 C:\Users\Mike\Documents\Visual Studio 2012\Projects\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.pdb
-E:\Users\Mike\Desktop\AzureAPISamples\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.exe.config
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Content\buymore2.xml
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.exe.config
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.exe
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.pdb
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csproj.CopyComplete
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.exe
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.pdb
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Student\Desktop\Demo Materials\AzureAPISamples\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csprojAssemblyReference.cache
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csproj.CoreCompileInputs.cache
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.exe
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.pdb
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.exe.config
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.exe
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\AzureBlobStorageSample.pdb
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Newtonsoft.Json.dll
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Newtonsoft.Json.xml
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\obj\Debug\AzureBlobStorageSample.csproj.CopyComplete
+e:\Desktop\WebinarPPT\AzureStorageBlobExample\AzureBlobStorageSample\bin\Debug\Content\queen-bee.jpg
